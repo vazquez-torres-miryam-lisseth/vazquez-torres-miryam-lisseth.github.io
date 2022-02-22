@@ -2,8 +2,10 @@
 ### *diviertete y aprende un poco mas y paso a paso conmigo de la mano*
 > ***para lograr tener éxito, tu deseo de éxito debe ser mayor que tu miedo al fracaso.*** —*Bill Cosby*  
   
-  
-  
+~~~
+ recuerda que iremos viendo poco a poco y descubriendo las cosas y patrones para usar en tus trabajos relcionados
+ a creacion de sitio web todo con gran esmero y entrega a nuestro trabajo.
+~~~
   
   You can use the [editor on GitHub](https://github.com/vazquez-torres-miryam-lisseth/vazquez-torres-miryam-lisseth.github.io/edit/main/index.md), tambien puedes observar mas en nuestro sitio  
 to maintain and preview the content for your website in Markdown files.
