@@ -1,15 +1,23 @@
-## vienvenidos a mi pagina soy vazquez torres miryam lisseth.
+# ***vienvenidos soy vazquez torres miryam lisseth y esta, es mi pagina***
+### *diviertete y aprende un poco mas y paso a paso conmigo de la mano*
+> ***para lograr tener éxito, tu deseo de éxito debe ser mayor que tu miedo al fracaso.*** —*Bill Cosby*  
+  
+  
+  
+  
+  You can use the [editor on GitHub](https://github.com/vazquez-torres-miryam-lisseth/vazquez-torres-miryam-lisseth.github.io/edit/main/index.md), tambien puedes observar mas en nuestro sitio  
+to maintain and preview the content for your website in Markdown files.
 
-You can use the [editor on GitHub](https://github.com/vazquez-torres-miryam-lisseth/vazquez-torres-miryam-lisseth.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### *Markdown*
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
@@ -20,6 +28,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
