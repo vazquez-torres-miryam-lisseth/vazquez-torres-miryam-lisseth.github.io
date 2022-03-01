@@ -1,5 +1,6 @@
 # ***vienvenidos soy vazquez torres miryam lisseth y esta, es mi pagina***
 ### *diviertete y aprende un poco mas y paso a paso conmigo de la mano*
+
 > ***para lograr tener éxito, tu deseo de éxito debe ser mayor que tu miedo al fracaso.*** —*Bill Cosby*  
  
  
@@ -9,6 +10,7 @@
  a creacion de sitio web todo con gran esmero
  y entrega a nuestro trabajo.
 ~~~
+
 # Un poco mas sobre mi como mis gustos, hbilidades, etc
 en esta seccion te hablare un poco mas sobre mi, con el fin de mostrarte como funciona githbub desde mi proceso de aprendisaaje y obviamente tambien que me puedas conocer un poco mas.
 
@@ -18,19 +20,21 @@ en esta seccion te hablare un poco mas sobre mi, con el fin de mostrarte como fu
 # mis gustos
 mis gustos musicales son: el metal, rock, rock pop, heavy metal, pop, y mis grupos favoritos son Slipknot, Disturbed y mi cantante favorito es Michael Jackson.
   
-![image](https://user-images.githubusercontent.com/99847355/156216481-d00a2299-6dbb-4d82-b6d7-b96a62128118.png) mi grupo favorito.
+                             ![image](https://user-images.githubusercontent.com/99847355/156216481-d00a2299-6dbb-4d82-b6d7-b96a62128118.png) 
+***mi grupo favorito.***
 
 mi grupo favorito es slipknot y con esta cancion los conoci tambien es una de mis favoritas.
 https://www.bing.com/search?q=slipknot+psychosocial&qs=SC&pq=slipknot+pa&sc=8-11&cvid=081CC3D058524BE48F53A77E77E977BA&FORM=QBRE&sp=1&ghc=1#
 
-![image](https://user-images.githubusercontent.com/99847355/156216913-24c4f5b2-e631-4714-91cd-266d1011c558.png)
+                            ![image](https://user-images.githubusercontent.com/99847355/156216913-24c4f5b2-e631-4714-91cd-266d1011c558.png)
 
 mi segundo grupo favorito es disturbed y con esta cancion los conici, cabe resaltar que tambien es una de mis faviritas.
 https://www.bing.com/search?q=disturbed+down+with+the+sickness&qs=SC&pq=disturbed+dont&sk=SC1&sc=8-14&cvid=72850F98D7294358BC0DF589BF944056&FORM=QBRE&sp=2#
  
- ![image](https://user-images.githubusercontent.com/99847355/156217399-c7dfacac-6ff6-484e-a7a5-4ff55870d49d.png)
+                             ![image](https://user-images.githubusercontent.com/99847355/156217399-c7dfacac-6ff6-484e-a7a5-4ff55870d49d.png)
 
  mi cantante favirito es Michael Jackson y mi cancion favorita de es 
+ 
 https://www.bing.com/search?q=michael+jackson+don%27t+care+about+us&qs=SC&pq=michael+jackson+dont+ca&sc=8-23&cvid=27C469269DE149919E16C7042D779777&FORM=QBRE&sp=1&ghc=1#
 
 
