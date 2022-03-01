@@ -9,7 +9,10 @@
  a creacion de sitio web todo con gran esmero
  y entrega a nuestro trabajo.
 ~~~
+# Un poco mas sobre mi como mis gustos, hbilidades, etc
+en esta seccion te hablare un poco mas sobre mi, con el fin de mostrarte como funciona githbub desde mi proceso de aprendisaaje y obviamente tambien que me puedas conocer un poco mas.
 
+![image](https://user-images.githubusercontent.com/99847355/156215099-cdf83515-3439-47d6-9774-c8cc571f9629.png)
 
 
 # mis gustos
