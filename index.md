@@ -12,7 +12,7 @@
 
 
 
-# [mis gustos](./página_destino.md)
+# [mis gustos](./página_destino_dentro_de_este.md)
   mis gustos musicales son: el metal, rock, rock pop, heavy metal, pop, y mis grupos favoritos son Slipknot, Disturbed y mi cantante favorito es Michael Jackson.
   
   mis gustos en cuanto a mascotas son los gatos, los conejos; anteriormente tuve uno llamada Mouglie era un conejo muy bonito y cariñoso era un polaco azul se los presento a continuacion, con este lindo conejito cree un vinculo muy fuerte ya que dormia con el y el me seguia a todas partes, incluso me lenguaba mucho.
