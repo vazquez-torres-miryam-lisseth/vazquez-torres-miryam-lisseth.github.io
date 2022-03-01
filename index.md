@@ -12,22 +12,25 @@
 
 
 
-# [mis gustos](./página_destino_dentro_de_este.md)
-  mis gustos musicales son: el metal, rock, rock pop, heavy metal, pop, y mis grupos favoritos son Slipknot, Disturbed y mi cantante favorito es Michael Jackson.
+# mis gustos
+mis gustos musicales son: el metal, rock, rock pop, heavy metal, pop, y mis grupos favoritos son Slipknot, Disturbed y mi cantante favorito es Michael Jackson.
   
   mis gustos en cuanto a mascotas son los gatos, los conejos; anteriormente tuve uno llamada Mouglie era un conejo muy bonito y cariñoso era un polaco azul se los presento a continuacion, con este lindo conejito cree un vinculo muy fuerte ya que dormia con el y el me seguia a todas partes, incluso me lenguaba mucho.
  
 ![image](https://user-images.githubusercontent.com/99847355/156210951-b3c66da4-07e7-427e-a0d0-b76451952b9a.png)
 
-# [habilidades y experiencias laborales](./página_destino:md)
+# habilidades sociales 
  
- soy buena dando consejos :3
- 
+ soy buena dando consejos casi de cualquier tipo, soy una persona en la que se puede confiar ya que tengo un gran sentido de la responsabilidad y soy muy puntual, respeto el tiempo de otros ya que me desagrada que no respeten mi tiemo :3
+
+
 # habilidades tecnologicas
 soy moderadamente buena el exce, en word, en powert point, etc en general con las apps de texto soy buena ya que recuerdo bien formulas y atajos.
 
+
 # Experiencia laboral
 aun no cuento con experiencia laboral pero en el futuro me gustaria poder entar a una gran empresa para poder aplicar lo que he aprendido y asi ayudar ya economicamente en mi casa y asi en un poco mas e tiepo cuando tenga un trabajo y salio fijo sacar de trabajar a mi papá.
+
 
 
 You can use the [editor on GitHub](https://github.com/vazquez-torres-miryam-lisseth/vazquez-torres-miryam-lisseth.github.io/edit/main/index.md), tambien puedes observar mas en nuestro sitio  
