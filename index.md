@@ -10,7 +10,7 @@
  a creacion de sitio web todo con gran esmero
  y entrega a nuestro trabajo.
 ~~~
-[un poco mas sobre mi](./unpocomassobremi.md) |[mis gustos](./misgustos.md) |[mis grupos favoritos](./misgruposfavoritos) |[habilidades sociales](./habilidadessociales.md)|[habilidades tecnologicas](./habilidadestecnologicas.md)|[experiencia laboral](./esperiencalaboral.md)
+[mas sobre mi](./massobremi.md) |[mis gustos](./misgustos.md) |[mis grupos favoritos](./misgruposfavoritos) |[habilidades sociales](./habilidadessociales.md)|[habilidades tecnologicas](./habilidadestecnologicas.md)|[experiencia laboral](./esperiencalaboral.md)
 
 # Un poco mas sobre mi como mis gustos, hbilidades, etc
 en esta seccion te hablare un poco mas sobre mi, con el fin de mostrarte como funciona githbub desde mi proceso de aprendisaaje y obviamente tambien que me puedas conocer un poco mas.
