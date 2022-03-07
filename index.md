@@ -13,21 +13,6 @@
 [mas sobre mi](./massobremi.md) |[mis gustos](./misgustos.md) |[habilidades sociales](./habilidadessociales.md)|[habilidades tecnologicas](./habilidadestecnologicas.md) |[experienca laboral](./experiencalaboral.md)|
 
 
-
-
-
-
-
-
-
-
-
-
-# Experiencia laboral
-aun no cuento con experiencia laboral pero en el futuro me gustaria poder entar a una gran empresa para poder aplicar lo que he aprendido y asi ayudar ya economicamente en mi casa y asi en un poco mas e tiepo cuando tenga un trabajo y salio fijo sacar de trabajar a mi papá.
-
-
-
 You can use the [editor on GitHub](https://github.com/vazquez-torres-miryam-lisseth/vazquez-torres-miryam-lisseth.github.io/edit/main/index.md), tambien puedes observar mas en nuestro sitio  
 to maintain and preview the content for your website in Markdown files.
 
