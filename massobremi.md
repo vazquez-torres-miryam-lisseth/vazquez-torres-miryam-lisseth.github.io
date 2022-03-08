@@ -12,4 +12,5 @@ en esta seccion te hablare un poco mas sobre mi, con el fin de mostrarte como fu
 | ranas albinas | son bastabtes divertidas ya que hacen ruidos en la noche y te relajan a demas de ser agradables visualmente | si tengo 1 |
 | peces | son bastante lindos y agradables a la vista | si tube mas de 100 a lo largo de mi vida |
 
-[regresar](./
+[regresar](./index.md)
+
