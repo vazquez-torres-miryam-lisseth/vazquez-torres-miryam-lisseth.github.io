@@ -7,7 +7,7 @@
 <form>
  <label for="name">nombres:</label><br>
  <input tipe="text" id="name" name="name" valve= "tus nombres"><br>
- <label for:"lname">apellidos:</label><br>
+ <label for="lname">apellidos:</label><br>
  <imput tipe="text" id="lname" name="lname" valve= "apellidos"><br>
   </form>
 
