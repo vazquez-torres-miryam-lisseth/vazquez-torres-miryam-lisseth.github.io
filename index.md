@@ -2,7 +2,7 @@
 ### *diviertete y aprende un poco mas y paso a paso conmigo de la mano*
 
 
-### ***[mas sobre mi](./massobremi.md) |[mis gustos](./misgustos.md) |[habilidades sociales](./habilidadessociales.md)|[habilidades tecnologicas](./habilidadestecnologicas.md) |[experienca laboral](./experiencalaboral.md)|***   
+### ***[mas sobre mi](./massobremi.md) |[mis gustos](./misgustos.md) |[habilidades sociales](./habilidadessociales.md)|[habilidades tecnologicas](./habilidadestecnologicas.md) |[experienca laboral](./experiencalaboral.md)| [contacto](./contacto.md)***   
 
 > ***para lograr tener éxito, tu deseo de éxito debe ser mayor que tu miedo al fracaso.*** —*Bill Cosby*  
  
