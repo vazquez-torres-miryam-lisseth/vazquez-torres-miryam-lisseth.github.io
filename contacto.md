@@ -9,7 +9,7 @@
  <input tipe="text" id="name" name="name" valve= "tus nombres"><br>
  <label for="lname">apellidos:</label><br>
  <imput tipe="text" id="lname" name="lname" valve= "apellidos"><br>
-  </form>   
+    </form>   
    
    En este contacto podras preguntar y solucionar tus dudas
  
