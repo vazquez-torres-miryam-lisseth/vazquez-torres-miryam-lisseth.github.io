@@ -5,7 +5,8 @@
 ![wa link_val6mw](https://user-images.githubusercontent.com/99847355/158484567-17232bd0-7f31-4f21-94d9-e9925dc05545.png)   
 
 <form>
- <label for="name">nombres:</label><br>
+ <label for="name">nombre:</label><br>
+ <input type="text" id="nombre" name="fnombre"><br>
  <input type="text" id="name" name="name" valve= "tus nombres"><br>
  <label for="apellidos">apellidos:</label><br>
  <input type="text" id="apellidos" apellidos="apellidos" valve= "apellidos"><br>
