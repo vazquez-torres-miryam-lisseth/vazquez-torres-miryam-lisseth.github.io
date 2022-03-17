@@ -18,8 +18,9 @@
  <input type="text" id="modelo de tu agrado" modelo de tu agrado="modelo de tu agrado" valve= "modelo de tu agrado"><br>
  <label for="dia para agendar cita">dia para agendar cita:</label><br>
  <input type="text" id="dia para agendar cita" dia para agendar cita="dia para agendar cita" valve= "dia para agendar cita"><br>
-    <label for="otros">otros:</label><br>
+ <label for="otros">otros:</label><br>
  <input type="text" id="otros" otros="otros" valve= "otros"><br>
+ <input type="submit" value="Submit">
     </form>   
     
    
