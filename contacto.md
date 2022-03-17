@@ -7,7 +7,6 @@
 <form>
  <label for="name">nombre:</label><br>
  <input type="text" id="nombre" name="fnombre"><br>
- <input type="text" id="name" name="name" valve= "tus nombres"><br>
  <label for="apellidos">apellidos:</label><br>
  <input type="text" id="apellidos" apellidos="apellidos" valve= "apellidos"><br>
  <label for="telefono">telefono:</label><br>
