@@ -15,6 +15,8 @@
  <imput type="text" id="gustos" gustos="gustos" valve= "gustos"><br>
  <label for="modelo de tu agrado">modelo de tu agrado:</label><br>
  <imput tipe="text" id="modelo de tu agrado" modelo de tu agrado="modelo de tu agrado" valve= "modelo de tu agrado"><br>
- 
+ <label for="dia para agendar cita">dia para agendar cita:</label><br>
+ <imput tipe="text" id="dia para agendar cita" dia para agendar cita="dia para agendar cita" valve= "dia para agendar cita"><br>
 
-# [regresar](./index.md)
+   
+ # [regresar](./index.md)
