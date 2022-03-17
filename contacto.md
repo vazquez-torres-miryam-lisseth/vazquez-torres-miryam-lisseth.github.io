@@ -11,10 +11,8 @@
  <imput tipe="text" id="lname" name="lname" valve= "apellidos"><br>
 </form>
    
-   En este contacto podras preguntar y solucionar tus dudas
  
- ***y por nuestro correo electronico***   
  
- vazquez.torres.miryam.c32@gmail.com   
+ 
 
 # [regresar](./index.md)
