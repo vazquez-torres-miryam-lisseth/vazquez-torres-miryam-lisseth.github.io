@@ -6,13 +6,15 @@
 
 <form>
  <label for="name">nombres:</label><br>
- <input tipe="text" id="name" name="name" valve= "tus nombres"><br>
+ <input type="text" id="name" name="name" valve= "tus nombres"><br>
  <label for="lname">apellidos:</label><br>
- <imput tipe="text" id="lname" name="lname" valve= "apellidos"><br>
-</form>
-   
- 
- 
+ <imput type="text" id="lname" name="lname" valve= "apellidos"><br>
+ <label for="telefono">telefono:</label><br>
+ <imput type="text" id="telefono" telefono="telefono" valve= "telefono"><br>
+ <label for="gustos">gustos:</label><br>
+ <imput type="text" id="gustos" gustos="gustos" valve= "gustos"><br>
+ <label for="modelo de tu agrado">modelo de tu agrado:</label><br>
+ <imput tipe="text" id="modelo de tu agrado" modelo de tu agrado="modelo de tu agrado" valve= "modelo de tu agrado"><br>
  
 
 # [regresar](./index.md)
