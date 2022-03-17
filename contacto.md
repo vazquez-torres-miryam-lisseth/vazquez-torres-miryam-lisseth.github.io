@@ -8,6 +8,7 @@
  <label for="name">nombres:</label><br>
  <input type="text" id="name" name="name" valve= "tus nombres"><br>
  <label for="apellidos">apellidos:</label><br>
+ <input type="text" id="apellidos" apellidos="apellidos" valve= "apellidos"><br>
  <label for="telefono">telefono:</label><br>
  <input type="text" id="telefono" telefono="telefono" valve= "telefono"><br>
  <label for="gustos">gustos:</label><br>
