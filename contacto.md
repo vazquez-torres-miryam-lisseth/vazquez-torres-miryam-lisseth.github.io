@@ -20,7 +20,7 @@
  <label for="otros">otros:</label><br>
  <input type="text" id="otros" otros="otros" valve= "otros"><br>
  <input type="submit" value="Submit">
-    </form>   
-    
+    </form>     
+  <forms action="https://formspree.io/f/mrgjlnva" method="post">  
    
  # [regresar](./index.md)
