@@ -4,7 +4,7 @@
 ***podras ponerte en contaco por medio de nuestro numero de contacto oficial***   
 ![wa link_val6mw](https://user-images.githubusercontent.com/99847355/158484567-17232bd0-7f31-4f21-94d9-e9925dc05545.png)   
 
-<form>
+<form action="https//formpree.io/f/mrgjlnva" method="post">
  <label for="name">nombre:</label><br>
  <input type="text" id="nombre" name="fnombre"><br>
  <label for="apellidos">apellidos:</label><br>
@@ -21,6 +21,4 @@
  <input type="text" id="otros" otros="otros" valve= "otros"><br>
  <input type="submit" value="Submit">
     </form>     
-  <forms action="https://formspree.io/f/mrgjlnva" method="post">  
-   
  # [regresar](./index.md)
